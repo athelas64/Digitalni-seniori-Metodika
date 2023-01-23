@@ -32,7 +32,7 @@ Dôvody pre tieto zásady sú nasledovné:
 
 + vyššie uvedené platí aj pre tzv. „dvojklik“, okrem toho, všetky funkcie je možné obslúžiť aj bez neho, ak  senior túto techniku ovláda a nemá s ňou problémy, samozrejme, neodrádzame ho,
 
-+ seniori majú tiež problém rozpoznať, kedy je potrebné „kliknúť dvakrát“, navyše ich počítače často reagujú so značným oneskorením a viacnásobné spúšťanie programu či otváranie novej karty problém len zhoršuje, 
++ seniori majú tiež problém rozpoznať, kedy je potrebné „kliknúť dvakrát“, navyše ich počítače často reagujú so značným oneskorením a viacnásobné spúšťanie programu či otváranie novej karty  problém len zhoršuje, 
 
 **Výnimkou z pravidla „jedno tlačidlo, jeden klik“ tvorí skrolovacie koliesko.** Ak seniori v skupine dokážu skrolovať pomocou kolieska bez toho, aby omylom klikali na s ním spojené „prostredné“ tlačidlo myši, túto techniku im vysvetlíme a predcvičíme si ju. Zároveň ich tiež naučíme, čo sa stane, ak koliesko náhodou stlačia príliš silno a ako sa vrátia späť do normálne stavu (**klávesa ESC**).
 
@@ -51,6 +51,8 @@ Podobne postupujú pri používaní príručky. Ak narazia na **červené čísl
 3. Pri treťom čítaní vykonávajú jednotlivé kroky.
 
 Tento spôsob si vyžaduje trpezlivosť a často je potrebné seniorom pripomínať, aby jednotlivé kroky nepredbiehali, ale sústredili sa na čo najpresnejšie vykonanie danej úlohy. Prax ukazuje, že takto sa s najväčšou mierou úspešnosti darí seniorom vykonať požadovanú akciu „na prvý raz“, čo významne zvyšuje ich sebavedomie, ako aj chuť učiť sa ďalšie veci.
+
+Tou najdôležitejšou devízou je trpezlivosť. Vaša trpezlivosť, trpezlivosť seniorov s vami a v neposlednom rade, trpezlivosť seniorov s nimi samými. 
 
 #### Čo na školení, to v príručke, doma (a všade)
 
@@ -99,4 +101,5 @@ Naopak, často opakujeme a vedieme seniora k úplnej samostatnosti v činnostiac
 
 #### Mastery (majstrovstvo) alebo 100 %
 
-Cieľom týchto je naučiť možno len pár vecí, ale naučiť ich spoľahlivo. Naučiť ich tak, aby sa s nimi senior neoboznámil, ale aby si ich osvojil a aby ich dokázal aplikovať aj po kurze s čo najväčšou mierou istoty a sebavedomia,  či už samostatne, alebo s pomocou príručky. Ktorákoľvek iná informácia, ktorú sa počas kurzu dozvie, neslúži na nič iné než na udržanie pozornosti a záujmu a tak  k nej treba aj pristupovať. Inými slovami, **čo nedokážem naučiť seniora na 100 %, sa ho nesnažím naučiť vôbec**. 
+Cieľom týchto je naučiť možno len pár vecí, ale naučiť ich spoľahlivo. Naučiť ich tak, aby sa s nimi senior neoboznámil, ale aby si ich osvojil a aby ich dokázal aplikovať aj po kurze s čo najväčšou mierou istoty a sebavedomia,  či už samostatne, alebo s pomocou príručky. Ktorákoľvek iná informácia, ktorú sa počas kurzu dozvie, neslúži na nič iné než na udržanie pozornosti a záujmu a tak  k nej treba aj pristupovať. Inými slovami, **čo nedokážem naučiť seniora na 100 %, to sa ho nesnažím naučiť vôbec**. 
+
