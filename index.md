@@ -1,5 +1,9 @@
 # Metodika ku kurzom počítačovej gramotnosti pre seniorov (S1 – S3)
 
+
+
+[TOC]
+
 ## Základné princípy
 
 Tieto kurzy sú postavené na úplnej nezávislosti od fyzického zariadenia. Je úplne jedno, či senior používa Windows (10, 11), Linux, Mac OS X. Je jedno, či má nový, alebo starší počítač. Našim cieľom je vybaviť ho zručnosťami, že nech sa posadí za akékoľvek zariadenie pripojené na internet, bude mať k dispozícii všetky svoje e-maily, dokumenty, fotografie, dáta, či nastavenia prehliadača, na ktoré je zvyknutý.
