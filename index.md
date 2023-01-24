@@ -26,7 +26,7 @@ Dôvody pre tieto zásady sú nasledovné:
 
 + Dokumenty Google vyžadujú nainštalovanie rozšírenia pre kopírovanie a prilepenie obsahu, avšak klávesová skratka funguje vždy,
 
-  <img src="assets/2023-01-23_02h35_48.png" alt="2023-01-23_02h35_48" style="zoom:80%;" />
+  <img src="assets/2023-01-23_02h35_48.png" alt="" style="zoom:80%;" />
 
 + niektorí seniori majú kvôli neuro-degeneratívnym zmenám na prstoch problémy používať obe tlačidlá na myši,
 
@@ -52,7 +52,7 @@ Podobne postupujú pri používaní príručky. Ak narazia na **červené čísl
 
 Tento spôsob si vyžaduje trpezlivosť a často je potrebné seniorom pripomínať, aby jednotlivé kroky nepredbiehali, ale sústredili sa na čo najpresnejšie vykonanie danej úlohy. Prax ukazuje, že takto sa s najväčšou mierou úspešnosti darí seniorom vykonať požadovanú akciu „na prvý raz“, čo významne zvyšuje ich sebavedomie, ako aj chuť učiť sa ďalšie veci.
 
-Tou najdôležitejšou devízou je trpezlivosť. Vaša trpezlivosť, trpezlivosť seniorov s vami a v neposlednom rade, trpezlivosť seniorov s nimi samými. 
+*Tou najdôležitejšou devízou je trpezlivosť. Vaša trpezlivosť, trpezlivosť seniorov s vami a v neposlednom rade, trpezlivosť seniorov s nimi samými.* 
 
 #### Čo na školení, to v príručke, doma (a všade)
 
@@ -72,11 +72,13 @@ Rovnako pri oboznamovaní sa s počítačom (napr. nácvik písania, odoslanie p
 
 Ak teda chcem seniora naučiť písať na klávesnici,  nekombinujem to s učením nájdenia a spustenia programu (ktorý už nikdy potom nepoužije), nastavením veľkosti okna či typu a veľkosti písma. Tieto všetky veci dostane na tanieri, lebo v tejto chvíli sa učí písať písmená s diakritkou, alebo spájať riadky či navigovať sa v texte pomocou kurzora klávesnice.
 
-Naopak, často opakujeme a vedieme seniora k úplnej samostatnosti v činnostiach, ktoré sú bránou ku všetkému ostatnému. Medzi tieto kritické činnosti patrí najmä:
+Naopak, často opakujeme a vedieme seniora k úplnej samostatnosti v činnostiach, ktoré sú bránou ku všetkému ostatnému. 
+
+**Medzi tieto kritické činnosti patria najmä:**
 
 + otvorenie prehliadača (Google Chrome),
 
-+ bezpečné prihlásenie a bezpečné odhlásenie sa z pošty na ľubovoľnom počítači,
++ bezpečné prihlásenie a bezpečné odhlásenie sa z pošty na ľubovoľnom počítači,gmail
 
 + pripojenie sa k Wi-Fi sieti (na mobile aj na PC),
 
@@ -102,4 +104,86 @@ Naopak, často opakujeme a vedieme seniora k úplnej samostatnosti v činnostiac
 #### Mastery (majstrovstvo) alebo 100 %
 
 Cieľom týchto je naučiť možno len pár vecí, ale naučiť ich spoľahlivo. Naučiť ich tak, aby sa s nimi senior neoboznámil, ale aby si ich osvojil a aby ich dokázal aplikovať aj po kurze s čo najväčšou mierou istoty a sebavedomia,  či už samostatne, alebo s pomocou príručky. Ktorákoľvek iná informácia, ktorú sa počas kurzu dozvie, neslúži na nič iné než na udržanie pozornosti a záujmu a tak  k nej treba aj pristupovať. Inými slovami, **čo nedokážem naučiť seniora na 100 %, to sa ho nesnažím naučiť vôbec**. 
+
+## Nastavenia pre operačný systém seniora
+
+### Výber operačného systému
+
+Pre účely tohoto kurzu je jedno, ktorý operačný systém senior používa. Ak príde senior s vlastným počítačom, ktorý nemá niektorú s aktuálne podporovaných verzií operačného systému Windows (t. j. **Windows 10** alebo **Windows 11**) a ani nie je možné alebo vhodné pre neho na tento systém svoje zariadenie aktualizovať, vhodnou alternatívou je napríklad na [Ubuntu](https://ubuntu.com/) založený, používateľsky veľmi prívetivý a na systém nenáročný **[Linux Mint v edícii Xfce](https://www.linuxmint.com/edition.php?id=304)**. Tento systém umožňuje inštalácii na kurzu používaného Google Chrome a dobre funguje aj na tých najstarších zariadeniach (procesor musí podporovať 64bitový systém, starším zariadeniam sa už život neoplatí predlžovať, pokiaľ berieme do úvahy ich používanie seniormi). 
+
+Staršie systémy Windows (XP, 7, 8, 8.1) neodporúčame, nakoľko už nie sú aktívne podporované a predovšetkým, používateľa budú so stále väčšou naliehavosťou otravovať s rôznymi hláseniami nabádajúcimi k aktualizácii alebo k iným opatreniam. Senior na tieto požiadavky často nevie reagovať.
+
+### Prostredie 
+
+#### Pracovná plocha (Desktop)
+
+Prostredie je vhodné nastaviť tak, aby v súlade s metodikou nemohlo seniora pri práci pomýliť. V stručnosti to znamená
+
++ bez ikon na pracovnej ploche;
++ Google Chrome pripnutý na paneli úloh ako jediná ikona;
++ Google Chrome je nastavený ako predvolený prehliadač pre webové stránky, HTML súbory, mailto: odkazy ako aj PDF súbory;
+
+#### Prehliadač
+
+V prehliadači sú dve dôležité nastavenia. Jedným  je mať ako predvolený nastavený **vyhľadávač Google**. Toto je dôležité skontrolovať, pretože najmä na prinesených laptopoch môže byť niektorý zo štandardných vyhľadávačov vymenený nejakým nevhodným rozšírením za stránku, ktorá do výsledkov vyhľadávania vkladá vlastné reklamné odkazy alebo ešte horšie, nepovoleným spôsobom špehuje používateľa či dokonca ťaží kryptomeny. Ak majú seniori skúsenosti s iným typom vyhľadávača (napr. duckduckgo.com), je to samozrejme v poriadku s ním majú skúsenosť a preferujú ho.
+
+Druhým dôležitým nastavením je mať **pri spustení** predvolené tvorenie stránky **Nová karta**. Často používané nastavenie „Pokračovať tam, kde ste prestali“ má rýchlo za následok, že senior má otvorené stále sa zväčšujúce množstvo kariet, ktoré môže veľmi rýchlo spôsobiť významné spomalenie až úplne zamrznutie a pád systému.
+
+![](assets/image-20230124151332330.png)
+
+## Mobilné zariadenia
+
+### Projekcia
+
+#### Typ projektora a spôsob prenášania obrazu
+
++ Full HD + 3LCD je lepšia kombinácia ako 4K projektor (napríklad [Epson EB-2250U](https://www.epson.sk/sk_SK/produkty/projektory/in%c5%a1tal%c3%a1cia/eb-2250u/p/21004))
++ miestnosť nemôže byť zatemnená, nakoľko seniori potrebujú vidieť do poznámok, takže projektor by mal mať dostatočnú svietivosť
++ Na projektoroch s menším ako FullHD rozlíšením pre demonštrácia práce s mobilným zariadením problematická
+
+#### Prepojenie mobilného telefónu s projektorom
+
+##### Priame prepojenie s projektorom pomocou kábla
+
+Najjednoduchší spôsob prepojenia je využitie redukcie alebo kábla na priame prepojenie s projektorom. Výhodou je okamžitý a kvalitný prenos obrazu. Nevýhodou je, že pracujeme s vlastným mobilným zariadením a svojimi dátami, čo je však možné na vyriešiť použitím sekundárneho účtu, ktorý umožňujú niektoré zariadenia (pozri 3.1.3.3). 
+
+**Požiadavky:**
+
++ mobilný telefón s konektorom podporujúcim režim [OTG (USB On-The-Go)](https://mobilizujeme.cz/clanky/jak-zjistit-zda-android-zarizeni-podporuje-funkci-usb-otg)
++ vhodný OTG adaptér, napríklad USB-C – HDMI (napríklad [kombinovaný](https://www.sunnysoft.sk/z/519PCI-580/adapter-usb-c-na-hdmi-usb-3-0-usb-c-pre-telefony-alebo-notebooky-s-podporou-nabijania-telefonu.html) alebo [jednoúčelový](https://www.alza.sk/alzapower-usb-c-m-na-hdmi-2-0-4k-60hz-f-0-1m?dq=5663798))
+
+<img src="assets/2023-01-24_15h45_06.png" alt="2023-01-24_15h45_06" style="zoom:33%;" />
+
+<img src="assets/evkoxjhi.bmp" alt="evkoxjhi" style="zoom:33%;" />
+
+
+
+##### Prepojenie prostredníctvom počítača s pomocou kábla (VYSOR – vhodné aj pre iPhone)
+
+Zdarma dostupná aplikácia VYSOR umožňuje efektívne prepojenie prakticky ľubovoľného zariadenia s operačným systémom Android alebo iOS k notebooku s operačným systémom Windows, OS X alebo Linux a dokonca aj priamo bez inštalácie s webovým prehliadačom (Google Chrome alebo Edge). 
+
+**Požiadavky:**
+
++ [Aplikácia VYSOR](https://www.vysor.io/download/)
+
++ [VYSOR pre Android](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor&hl=en&gl=US)
++ OTG kábel ja prepojenie s počítačom (USB C – USB A alebo USB C), alebo VYSOR Pro (mesačne 2,5 €, ročne 10 €, jednorázovo 40 €)
++ Aktivované nastavenia pre vývojárov (Developer settings) a Ladenie cez USB  (USB debugging) v mobilnom telefóne
+
+![2023-01-24_16h43_40](assets/2023-01-24_16h43_40.png)
+
+
+
+##### Bezdrôtové prepojenie prostredníctvom aplikácie Your Phone (Windows 11 a mobilné telefóny SAMSUNG)
+##### Využitie virtuálneho mobilného telefónu (Android Studio)
+
+#### Prispôsobenie mobilného telefónu pre demonštráciu
+
+##### Veľkosť grafických prvkov a písma
+
+##### Zobrazenie dotykov
+
+##### Využívanie alternatívneho profilu (Android 12 okrem telefónov SAMSUNG)
+
+
 
