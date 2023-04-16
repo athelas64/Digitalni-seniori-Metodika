@@ -149,7 +149,7 @@ Najjednoduchší spôsob prepojenia je využitie redukcie alebo kábla na priame
 
 **Požiadavky:**
 
-+ mobilný telefón s konektorom podporujúcim režim [OTG (USB On-The-Go)](https://mobilizujeme.cz/clanky/jak-zjistit-zda-android-zarizeni-podporuje-funkci-usb-otg)
++ mobilný telefón s konektorom podporujúcim režim [OTG (USB On-The-Go)](https://mobilizujeme.cz/clanky/jak-zjistit-zda-android-zarizeni-podporuje-funkci-usb-otg). Aplikácia, pre overenie, či váš telefón podporuje OTG sa nazýva [USB OTG Checker](https://play.google.com/store/apps/details?id=com.app.usbotgchecker)
 + vhodný OTG adaptér, napríklad USB-C – HDMI (napríklad [kombinovaný](https://www.sunnysoft.sk/z/519PCI-580/adapter-usb-c-na-hdmi-usb-3-0-usb-c-pre-telefony-alebo-notebooky-s-podporou-nabijania-telefonu.html) alebo [jednoúčelový](https://www.alza.sk/alzapower-usb-c-m-na-hdmi-2-0-4k-60hz-f-0-1m?dq=5663798))
 
 <img src="assets/2023-01-24_15h45_06.png" alt="2023-01-24_15h45_06" style="zoom:33%;" />
